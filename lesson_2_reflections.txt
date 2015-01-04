@@ -4,3 +4,7 @@ The concept of the staging area provides a landing bay for commits to be grouped
 You can use the staging area to make sure that you have one logical change per file. You can use the commands like git diff --staged to compare the changes in the staging area with the latest commit on the git repository
 
 Branches help is isolating new/under development features from poluting a functioning code base. They also provide you the ability switch between code basis of varying features as and when required
+
+
+Diagrams do help us visualize the overall commit tree
+git log --graph --oneline master <other-branch>
