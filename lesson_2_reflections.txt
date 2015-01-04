@@ -1,0 +1,1 @@
+The concept of the staging area provides a landing bay for commits to be grouped together. It also helps seperate the files which are ready to be checked in and those which are not.
