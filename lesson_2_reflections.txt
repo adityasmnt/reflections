@@ -1,1 +1,4 @@
 The concept of the staging area provides a landing bay for commits to be grouped together. It also helps seperate the files which are ready to be checked in and those which are not.
+
+
+You can use the staging area to make sure that you have one logical change per file. You can use the commands like git diff --staged to compare the changes in the staging area with the latest commit on the git repository
