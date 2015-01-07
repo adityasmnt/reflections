@@ -1,0 +1,1 @@
+When working with multiple people on a bigger project, It is better to have the code staged onto github
