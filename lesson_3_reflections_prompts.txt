@@ -1,1 +1,3 @@
 When working with multiple people on a bigger project, It is better to have the code staged onto github
+
+Rather than a continuous sync it is better to have pull changes as and when needed. The reason being it is much less prone to errors and you can pull merge onlywhen you are ready
