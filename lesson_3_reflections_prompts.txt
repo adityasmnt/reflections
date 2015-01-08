@@ -5,3 +5,5 @@ Rather than a continuous sync it is better to have pull changes as and when need
 fork is githubs clone. git clone is more general purpose copying of a repo. branching is to take a different path of development on the same repo.
 
 Having the benefit of having a copy of the last known state of the remote store locally helps delay a tedious merge process in case on conflicts. Plus it gives you the idea surrounding what level of conflicts would exist
+
+Collaborating on git hub, the easier part is branching the hard part is merge conflits
